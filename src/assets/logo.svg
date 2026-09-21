@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Autowelten Cuxhaven Logo</title>
+  <desc id="desc">Geometric AW emblem with Autowelten Cuxhaven wordmark in white and blue.</desc>
+
+  <!-- AW emblem -->
+  <g transform="translate(55 55)">
+    <path fill="#FFFFFF" d="M0 235 L145 55 L245 55 L115 235 Z"/>
+    <path fill="#FFFFFF" d="M155 235 L255 105 L330 105 L235 235 Z"/>
+    <path fill="#149BFF" d="M125 185 L225 55 L300 55 L178 210 Z"/>
+    <path fill="#FFFFFF" d="M285 235 L355 145 L430 145 L360 235 Z"/>
+    <path fill="#FFFFFF" d="M245 235 L330 130 L390 130 L315 235 Z"/>
+  </g>
+
+  <!-- Divider -->
+  <rect x="535" y="55" width="5" height="250" rx="2.5" fill="#FFFFFF"/>
+
+  <!-- Wordmark -->
+  <text x="595" y="160"
+        fill="#FFFFFF"
+        font-family="Montserrat, Arial, Helvetica, sans-serif"
+        font-size="104"
+        font-weight="800"
+        letter-spacing="1">AUTOWELTEN</text>
+
+  <!-- Blue E accent -->
+  <rect x="1058" y="82" width="72" height="13" rx="2" fill="#149BFF"/>
+  <rect x="1058" y="112" width="72" height="13" rx="2" fill="#149BFF"/>
+  <rect x="1058" y="142" width="72" height="13" rx="2" fill="#149BFF"/>
+
+  <!-- Cuxhaven line -->
+  <rect x="595" y="215" width="125" height="5" fill="#149BFF"/>
+  <text x="750" y="252"
+        fill="#149BFF"
+        font-family="Montserrat, Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="600"
+        letter-spacing="27">CUXHAVEN</text>
+  <rect x="1295" y="215" width="125" height="5" fill="#149BFF"/>
+</svg>

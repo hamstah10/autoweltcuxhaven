@@ -1,0 +1,10 @@
+{
+  "description": "This web application serves as a digital platform for Autowelten Cuxhaven, showcasing vehicles and services for car buyers, enhancing their shopping experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
